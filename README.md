@@ -30,6 +30,7 @@ Routing is reformulated as a **disorder-aware optimization problem**, where path
 ---
 
 ## Dataset
+- Link to the Dataset (https://snap.stanford.edu/data/ego-Twitter.html)
 - Twitter social network graph
 - ~81,000 nodes and ~1.3M edges
 - Sampled subgraph used for efficiency (~15,000 nodes)
