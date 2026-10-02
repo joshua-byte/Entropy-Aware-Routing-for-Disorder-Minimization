@@ -1,0 +1,9 @@
+Metric,Baseline,EARA
+Mean hops,6.42,6.43
+Median hops,6.0,6.0
+Mean weighted cost,18.25528221407696,17.743749824398066
+Median weighted cost,17.206437202224407,16.700668248401314
+Mean attack-edge fraction,0.027523809523809523,0.006500000000000001
+Total attack-edge traversals,16.0,4.0
+Routes using attack edges,8.0,2.0
+Mean path disorder,12.050692007339476,11.369096731757965
