@@ -81,4 +81,5 @@ The current implementation focuses on evaluating disorder-aware routing under co
 
 ## References
 1. J. McAuley and J. Leskovec. Learning to Discover Social Circles in Ego Networks. NIPS, 2012.
-2. Rozemberczki, B., & Sarkar, R. (2020). Characteristic functions on graphs: Birds of a feather, from statistical descriptors to parametric models. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (pp. 1325–1334). ACM. doi.o
+2. Rozemberczki, B., & Sarkar, R. (2020). Characteristic functions on graphs: Birds of a feather, from statistical descriptors to parametric models. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (pp. 1325–1334). ACM. doi.org
+
